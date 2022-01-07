@@ -1,0 +1,167 @@
+
+1. Online House Renting System
+Java Project Idea: House rental portal is a web-based java project where house owners, clients, customers can exchange information effectively and inexpensively. This system provides a user-friendly interface, satisfying the needs of the consumers. It also employs a new strategy that facilitates easy management of rental houses.
+
+There are three users in this system- Owner, Admin, and Customer. The owner is the user who owns the house and wants it to give it for rent. The owner will upload all the details of the house, including the number of rooms, locality, rent. Admin manages all the users of the system. Customer is the one who is looking for a rental house. He can search the house according to the requirements and get the results accordingly.
+
+2. Laboratory Management System
+Java Project Idea: The laboratory management system is another exciting beginner level project that is used to provide security of the data of the laboratory. Access permissions for viewing and updating the data are set for each entity. There are three entities in this system.
+
+The Admin maintains database of laboratory and can retrieve data from the database using oracle and solves the technical problems if it occurs by using technologies like Java servlets and JSP using the tomcat server.
+
+The Faculty can post and update marks of students and can provide notices and latest updates related to tasks, like date of task submission, dates of lab examinations. Faculty also generates the report.
+
+Students are the main users of this system. Their attendance is updated whenever they login to the system. The student has only permission to view the notices and updates.
+
+3. School Management System
+Java Project Idea: School management system is another beginner level project idea that will help you implement your skills in Java. This project is developed for schools to store and manage all data and records related to school. All information related to students, teachers, and staff of the school is stored in the database. System also provides the facility to calculate and manage attendance of students.
+
+There are four types of users in this system: admin, student, teacher, and staff members. Admin handles the whole system and has rights to access the data of other users. He can add, delete, and modify the records of students, teachers or any staff member. Teachers can keep track of attendance and enter the marks and grades obtained by the student in exams. Students can view their details including attendance and performance. Each user of the system has to login with a valid username and password in order to access the system.
+
+4. Water Supply Management System
+Java Project Idea: Water supply is one of the most essential needs of a human being’s survival. Each one who uses the water has to pay the bill monthly. Sometimes, the process of paying bills manually in a queue becomes tedious and time-consuming. The water supply management system will help to resolve this problem by helping the private companies and local government of the city to manage the water supply system in an organized and computerized manner. The payments of the water supply bills will be transacted through online mode.
+
+5. Catering Management System
+Java Project Idea: Catering is a business that provides food services in events like marriages, parties, etc. The Catering management system will help the catering companies to manage their catering business in an efficient and time-saving way. The caterers can manage their resources and orders in an organized manner without keeping the details manually on paper. All the details will be stored in the system. They can manage the resources, available employees, and timings very well for organizing the event.
+
+There will be an admin who will manage the resource database, employee database. The system will help the admin in keeping track of the available resource and in estimating whether the resources would fulfill the catering needs of the event or not. The system can also generate the bills for each event that is conducted.
+
+If you want to extend this project, you may add the users in the system who can request the order to the caterer by entering all the relevant details of the event.
+
+6. Stadium Seat Booking System
+Java Projects Idea: This is another automated system that can be developed in Java and will be useful to the people for booking their seats in the stadium through the online method. Every detail of the stadium should be mentioned properly including the number of seats, seat availability, price of the seat, category of seats.
+
+Admin will manage all the details related to the stadium and matches that would take place in the stadiums and will have to update each detail. When the user books a seat, he will get a unique seat number.
+
+This application will require a robust database as it would contain the details of all the matches taking place in a particular region.
+
+7. Temperature Converter Tool
+Java Project Idea: The Temperature Converter system is another very simple project in Java that you can develop to build up your coding skills in Java. It just requires the basic concepts of mathematics that will help you to build the logic of the program.
+
+The interface can be built by using the useful classes of javafx package. User needs to enter the value of temperature in a particular unit and also the unit in which he wants to convert the temperature. Let’s say, from Celsius to Fahrenheit or vice versa. Then he has to just click the button to see the result.
+
+8. Percentage calculator
+Java Project Idea: The percentage calculator system is a simple Java project for beginners that can be built using core Java concepts. The user interface can be built using built-in classes of the javafx package. The user simply enters the values and gets the result. It will be helpful to faculties for calculating the percentage marks of the students that will save time and there will not be any chance of calculation mistakes.
+
+9. Clinic Management System
+Java Project Idea: Clinic Management System is one of the best project ideas to work upon in Java. It supports an efficient management system for clinics and helps doctors to manage the appointments and data of each patient in an organized manner. The patients can get the appointment without having a manual conversation; he can just find the timings of the clinic and availability of the doctor and book the appointment with the doctor. The admin will approve the appointment request according to particular criteria.
+
+10. Hospital Management System
+Java Project Idea: The Hospital management system provides a well-tuned management system that helps to automate the workflow and activities of a hospital. This system manages the administrative and financial activities of the hospital along with all the medical facilities. There are four users in this system- Admin, Doctor, Patient, and the Receptionist. Admin can manage all the other users of the system and maintains the database of the system. Whole system supports the vital activities of daily tasks and interactions in a smooth manner.
+
+                        ===========Java Mini Projects==========
+
+1. Telephone Billing System
+Java Project Idea: The Telephone Billing system is a simple Java mini project that can be developed to increase the efficiency of manual procedures of telephone billing systems. The bills are easily calculated and managed in the system. System provides a fast and automatic bill generation. It eliminates the use of registers and files to store information about consumers and their telephone records. This project can be a great idea to impress your faculties as well to show your skills in the resume.
+
+2. Electricity Billing System
+Java Project Idea: Electricity Billing System is a web-based project in Java that provides an online platform for users to pay electricity bills. The system automates billing system and calculates the amount of money to be paid according to the units consumed in a specific duration of time. The customer will just feed the meter’s readings into the system and software will generate the bill. This system will be helpful to both consumers as well as companies.
+
+3. Online Courier Management System
+Java Project Idea: The online Courier management system is a suitable project for beginners who are looking to make their career in Java. This project is based on MySql and JSP and runs on tomcat server. This system automates the process of courier management by performing all the processes of a courier system in an automated manner.
+
+The whole system is well organized and performs efficiently. It has six modules:
+
+Office Module that maintains all the information related to the courier office
+Shipment Module, that manages all the shipment operations
+Manager module in which the manager takes care of all the information
+Delivery Module that manages the delivery operations
+Payment Module which performs all the operations related to the payment of the courier
+Customer Module that manages all the information of the customers taking the services from this system
+4. Wedding Planner System
+Java Project Idea: This will be one of the catchy applications that you can choose to develop. This system is used to plan and manage the wedding events in an effective way. The user has to login to the system to get its services. The user will add the details of the wedding event like venue booking, type of food to be served, number of members to attend the wedding, decoration details, and the estimated budget. Then, the admin will view all the details and process the request of user. The user will get the final quote of wedding event and can book the event planner for managing all the activities.
+
+5. Assignments and Materials System
+Java Project Idea: This project can prove to be very helpful to the computer science students who want to strengthen their programming skills in Java. This system is a web-based system based on MySql, JSP, Servlets, JavaScript, HTML and CSS. It will be a very good platform for communication between faculty and students.
+
+There are three users in this system- admin, faculty, and the students. The faculty and students have to register themselves before using the system and the admin’s role is just to maintain all registered users. The faculty will upload the necessary study materials and assignments related to his/her subject and the students can read the study materials. This will reduce the paperwork and wastage of time for teachers and students.
+
+6. Online Cab Booking System
+Java Project Idea: The Online Cab Booking System is another fascinating project that can be built using Java. This system provides a convenient way to users for booking the cabs from any place as per their requirements. This system allows users to book the cabs online, manage their bookings, and even cancel the booking at any point of time.
+
+The user has to first signup/login to the system and then he has to enter details to book the cab like- date and time of journey, pick-up location, destination, and drop-off point. As soon as they book a cab, they are provided with the driver’s name and his contact number so as to communicate with him. The current status of the cab is also shown on the map on the user’s system so that he can easily track the cab.
+
+7. Online Auction System
+Java Project Idea: This can be a unique and interesting mini project in Java to impress your faculties and friends. This system is an online platform for carrying out auctions. This brings the process of auction to the fingertips of the auctioneers. There are buyers and sellers in this system who can exchange their products through a fair auction. There will be an admin who will manage the details of the products and the users of the system.
+
+8. Crime Records Management System
+Java Project Idea: The Crime Record Management system is a top core Java project for beginners to start. This is an automated system for managing and storing all the records related to the criminals over a particular area. There will be a proper criminal record for all the criminals according to their crime, date of crime, and their punishment period.
+
+One of the most significant features is that the victims can also file their complaints through this system at a particular police station or from any place and at any time by providing the details of the incident with all the required details. When the request is lodged by the victim or the user, it will reach the server of the Police station and it will be converted to an FIR for further investigations.
+
+9. Online Shopping System
+Java Project Idea: The Online Shopping System is a kind of E-Commerce website which has become a common requirement for almost every individual. It is developed to perform commercial transactions over the web. The whole system is divided into two panels- admin panel and customer panel.
+
+The admin will manage all the customers who are registered with the system and will upload all the products with detailed description. The customers can search for products using categories such as range, type, size colors, etc. They can see all the details of product and can view product’s images by enlarging them or viewing them with different angles. They can add any product to their cart or mark them as favorite and of course, buy them by paying through an online mode. They will also get a verification mail on their registered email id after paying for the product and can also track the product delivery through this system. This is one of the popular Java projects for final year students of CS/IT.
+
+10. Interest Calculation System
+Java Project Idea: The motive of the Interest Calculation System is to automate the process of interest calculation in banks. This system can ease the process of interest calculation of all the accounts associated with the banks. There will be an admin who has to login to the system with a valid username and password. Then he can either add, update, or view the interest rates. While adding and updating the interest rate, the admin will have to mention the account type. He can also add interest related to loans. The customers who have their accounts with the bank can also view all the interest rates on their systems by registering and logging in to the system.
+          
+              ========Java Project Ideas to Strengthen Your Resume===========
+              
+1. Color Hunt Gaming Project
+Java Project Idea: Color hunt is an entertaining mind game which consists of letters with different colors arranged randomly on it. In this Java game, we mention a statement of a precise color and letter, which we’re supposed to click in the block box fastly. We need to click on the exact color which has been mentioned and the statement immediately keeps changing.
+
+2. Ambulance Service Provider
+Java Project Idea: The Ambulance Service Provider is an automated project for managing the ambulance services in the hospitals. There is an admin who has the permission to add a doctor, employee, attendee to the system. The admin also manages status of all the ambulances of hospital. The status shows the availability of ambulance. Whenever there is an emergency call, any registered staff member can view the current status of each ambulance and provide the ambulance services accordingly.
+
+3. Traffic controller System
+Java Project Idea: The Traffic controller system is a simple Java project for beginners which is based on JSPs, Servlets, MySql, and core concepts of Java. It provides an automatic system for traffic control management. It manages the traffic routes, traffic light system, data of traffic police in a particular region. All such necessary information is stored at a single place and it proves to be very helpful for the traffic management team.
+
+4. Apartment Management System
+Java Project Idea: The Apartment Management System is one of the best mini projects that can be developed in Java to manage apartments such as flats, buildings, or any of the real estate properties. The whole apartment can be managed using this system without maintaining manual records and labor.
+
+There are three sections in this system: admin section, apartment owner section, user section. Admin will control all the activities of apartment and the owner can monitor his apartments’ information and rent payments. Users are the ones who live in the apartment. They can add complaints, check activities, and can view their rent statements if they are the tenants of the apartments.
+
+This will be really an impressive project that can be developed with Java, MySql, jQuery, and Ajax.
+
+5. University Admission System
+Java Project Idea: The University admission system can be developed to automate the admission process of a university. This project will really help you to gain more knowledge of Java and strengthen your resume.
+
+The whole admission services and processes will be computerized by replacing the existing pen-paper system of university admissions and can be done from anywhere. The updates about the admissions will be provided on the website and students can register themselves for admission process. There will be a section for the entrance exam of university. Students can view their admission status including their marks and courses for which they are eligible. There is also a fee payment option if the students’ admission is confirmed with the university.
+
+6. Venue Booking System
+Java Project Idea: The venue booking system is a fascinating project that you can go with to enhance your Java skills. It is a web application that helps dealers and customers to book the venue according to their choice like location, availability, cost, type, and area of the venue.
+
+There are three modules in this system- admin module, dealer module, and customer module.
+
+Admin has to login to the system and he has the permission to view and manage the registered users in the system
+Dealer is a user of the system who registers himself with venues and handles the customers’ requests
+Customer also has to register and login themselves to the system to use it. The customer can search for the venues based on the location and can book any of the available venues and forward requests to the dealer
+7. Career Analysis System
+Java Project Idea: The Career Analysis system can be proved as a very fascinating system for Java development. It is helpful for the students, who have graduated from the schools, to search for colleges all over the country to make their career. They need to either manually visit the colleges and get the inquiry for the admission or have to contact the colleges through mails and calls which is again a time-consuming task.
+
+The system allows the students to add their rank and marks of the competitive exams and they can see a list of suitable colleges and the courses that can be provided to them based on their rank. This saves physical effort and time for both college and students.
+
+There are an admin and the users in this system. The admin can add details of engineering as well as medical colleges to the system and the user has to register himself with the required details and he will get a username and password. The users or the students can select the category of college with specific branches and have to enter their rank.
+
+8. Online CV/Resume Builder
+Java Project Idea: This project is an automated system to create a resume in a flexible way. It simplifies the task of creating a CV or resume for an individual. The system creates a professional-looking resume by taking all the details from the user. The user will have to enter all the details including the personal details, educational details, interests, skills. The user can also choose the category whether he is a fresher or an experienced individual.
+
+After entering all the details, the resume can be created by clicking a single button. The resume can be saved as a pdf file or can be printed. This will be really an eye-catching project to showcase your Java skills in your resume.
+
+9. PDF Converter Project
+Java Project Idea: It is a very simple yet attractive core Java project that is used to convert the text files into pdf format. There are many classes and methods provided by Java that will help you to directly convert the doc files into the pdf format without writing huge codes. You can convert any text or doc file into the pdf format and store the pdf file in the desired location. This project will help you understand the concepts of File Handling and inbuilt packages of Java.
+
+10. Coach management System
+Java Project Idea: The Coach Management System is a computerized system for coach management in Railways. This is one of the best suited project ideas for students looking to build their career in Java. The Coach management system manages mainly 5 modules which are- Coach Number module, Coach Module, Train Module, Passenger Module, and Seat Module. The reports related to passengers and coaches can also be generated using this system.
+
+11. Prison Management System
+Java Project Idea: Prison Management is an interesting project that you can develop using Java. This system automates the working of a Prison. There is a well organized database to store and maintain the records of criminals, jailors, staff members. For each criminal, there is a record for their crimes, punishments, and the days left to serve in prison. And therefore, we can also search for the most wanted criminals at the top of the list according to the number of crimes committed by them.
+
+12. Cyber Cafe Management System
+Java Project Idea: Cyber cafe management system is designed to provide a fully automated solution for internet and cyber cafes. The cyber cafe owners can manage their workstations and customers’ databases. This system also manages the employees, controlling computers, devices, printers, accounting, and billing systems of the cafe. Overall, there is an ease in running the internet cafe business using this system. This project idea will be really interesting and attractive.
+
+13. Warehouse management system
+Java Project Idea: A Warehouse is defined as a huge quantity of stocks and products. To manage all the products with their maintenance there is a need for a well organized system that keeps a record of all these products with their receiving, shipping, and billing details. There are 5 modules in this system which are- Admin module, Receiving Module, Shipping Module, Billing Module, and Reports Module. It can be developed using JSP, Servlets, JDBC, HTML, Javascript, tomcat server.
+
+14. I-card generator system
+Java Project Idea: As the name suggests, the I-Card Generator System will help in smoothly generating the identity cards for the employees of any organization or for the students and teachers of the educational institutes with great ease.
+
+The admin will add all the relevant details to be shown on the id card like photograph, name, age, department, year of joining, blood group, address, mobile number. And the system will generate the id card based on these details. The system will ensure that only one ID card is generated for a person. This project will prove to be one of the unique and interesting core Java projects to be opted for and to Java expertise in your profile.
+
+15. Tax management system
+Java Project Idea: Tax Management is a project that can be built to produce the Tax returns of the client and to generate the Tax Summary. There are two modules in this system: An admin module and the client module. To use the system, the client registers and then enter all the details and upload necessary documents necessary for preparing the Tax Summary.
+
+After the successful submission of all details and creation of a tax summary, admin schedules his interview to discuss the issues. The client can also make changes as asked by the admin. After the approval of the tax summary, the client pays the tax charges and receives the receipt from the admin.
+

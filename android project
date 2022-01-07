@@ -1,0 +1,651 @@
+               =========Android project ideas for beginners==========
+                
+1. Fake Caller Application
+Android Project Idea: This application will be used to make a fake call to the device. This application is generally essential for emergency situations. This can be good for situations where the users are alone and in danger. This app will help them pretend like they’re on call and walk out of the path.
+
+To develop this application, Android Studio is required. For programming, Java and XML will be required in Android Studio. For fake calling, you need to get access to the CallManager package in Java.
+
+The user would need to make an account and set the caller name in the application. After this, they can use this Fake calling app without any issue.
+
+2. College Students Communication App
+Android Project Idea: This application will enable college students to communicate with each other on a single platform. It will give them the facility to chat, and share important notice through it. There will be a login page for the users and a code to join the same group.
+
+The development of this application can be done using Android Studio, Java, and XML. For this, even Kotlin can be used instead of Java. And instead of XML, you can use JSON.
+
+This app is specifically targeting a group of people and not anyone to one chat. The users would be provided with a login/signup page. Once they register on the app, they’ll be ready to enter the chat room with a code. After they enter the chat room, they can communicate and share the data.
+
+3. Timetable Manager
+Android Project Idea: This project is specially developed to help people manage their routines properly. This will let users make a timely routine of each day so they can follow it. This will be more useful for the students or the college-going youth.
+
+This system uses Android Studio for its front end development and functioning. This app doesn’t need a backend as this type of applications use the data from the phone itself and projects that to the user. The data will be stored locally in the device using SQLite.
+
+The users would need to register themselves using credentials and then log in to the app. Once done, they will be able to use it and enter their tasks and time table in a timely manner.
+
+4. Food for Train App
+Android Project Idea: This is a nice project idea for beginners. This application is to enable the delivery of food to the passengers of trains who travel long distances. This application will ensure the passengers have a pleasant journey as they’ll be able to order food through the application.
+
+This application will be based on the Location services of Android. It’ll also have live tracking of the passengers. You can build it on Android Studio using Java and XML. It’ll completely operate on the internet.
+
+There will be three modules that are the restaurants, passengers, and the delivery person. All three need to login on the app through their credentials. The user will place an order from the restaurant through this app. And the nearest delivery person available would be assigned the job to deliver the food pack.
+
+5. Parental Control Application
+Android Project Idea: Online Parental Control Application is an application aimed at helping parents to have control over their children. It’ll help them keep track of their kids’ health and their study. This system will have modules Admin, Parent, and Children. The range of children varies in groups like for 1-4, 5-7, 8-11, and teenage.
+
+Then there would be proper events and event reminders that will help the growth of children. There will be all the things regarding kids’ diets and their exercises. Plus, the app will give them schedules and tracking details.
+
+To develop this application we will need Android Studio, Java, and XML. The user would need to enter the credentials and login. They’d need to enter the details of their children like their name, age, date of birth , so that the application generates a report and a tracking system accordingly.
+
+6. Color guessing game
+Android Project Idea: This is a simple project for college students that is aimed at teaching kids the colors in an interactive manner. It will show colors in the form of shapes and drawings to make it interactive learning. First, it will show the colors and their names. After that, it will ask kids what color is shown. If they answer correctly, it will play sounds of claps making kids happy.
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Java programming or Kotlin. And for the interactive user interface, you can use XML.
+
+The users would be mainly the kids; thus this application will be built as simple and interactive as it can. There would be a no. of options provided to them from which they will choose one.
+
+7. Teaching with fun for toddlers
+Android Project Idea: This is the application developed to teach children counting, alphabets, and other very basic but essential things in an interactive manner. It will have the lessons sectionwise to help parents teach their kids anywhere. This will help kids to learn with fun while playing itself.
+
+The requirement for this application is Android Studio, Java/Kotlin, XML for the application. Permission for location and internet from the device. For local databases, SQLite will be used for our Android Application.
+
+The users would need to register themselves in the app and choose their kid’s age range. This will help fetch the lessons age-wise and in an effective way. This application can be beneficial to teach kids while they’re growing.
+
+8. Seed testing using image processing
+Android Project Idea: This is an interesting android project for beginners. This application will help the farmers to detect if the seeds they are using have not defected. This application will detect the type of seeds and give every information about it to the users. Plus, it will show how they can check if the seed is not defective. This app itself will test the seed using Image processing.
+
+To develop this application the Android Studio is required. For the coding, it will need Java and XML. The image processing will be done using some specific AI algorithm.
+
+The farmer is supposed to login, and their data will be stored. They simply need to take a picture of the seed through the app, and it will show the result. The recent search history would be stored in the database using SQLite.,
+
+9. Unit Converter Application
+Android Project Idea: This application will aim at helping its users by converting the units from one another. This app will take input from the user and convert it to the desired unit and give the result. For example, it will be able to convert a value in centimeters to Meters or grams to kilograms and vice versa.
+
+To develop this application, Android Studio is required. The knowledge of XML would be required for the user interface and the Java programming for the application’s conversion functionality.
+
+The user would need to install this application, and they can use it immediately. They just need to enter the value and choose a unit. After that, they would simply choose the unit in which it is to be converted. This app will give them the result value.
+
+10. Tuition notes of the student app
+Android Project Idea: This project is based on the tracking of students who go to tuitions. This app will have three modules that are the student, the tutor, and the parents. This app will contain all the details of the student, like when they had gone for classes and when they didn’t. Also, the tutors will give them remarks on a daily basis.
+
+This application needs to be built using Android Studio. And the supported languages are Java and Kotlin. The interface can be designed using JSON or XML.
+
+The tutor will make the account of the student and their parents and will handle the things. All the users are then supposed to login using the credentials. This app will make sure that the parents are also keeping track of their children. Along with that, they can also be in constant touch with the tutors.
+
+11. Digi Locker App
+Android Project Idea: Digi Locker App is an advanced android project for final year students that has file storing facilities. This makes it very efficient and reliable as we do not have to carry every document with us every time. Various documents such as Passport, PAN cards, etc. are essential and can be needed anytime. Also, if we lose them or drop them somewhere by mistake, they can be misused. Uploading them on servers is risky as it can be hacked. On the other hand, keeping them openly on our phones is not good either. Thus, we have developed this app that will save the uploaded document in an encrypted form and store them in the Internal Memory, to avoid any kind of hacking.
+
+The data will be stored in the device using SQLite. And for the front end and functioning, you can use the platform of Android Studio.
+
+The best thing about this system is that it is Secured with Pin. This PIN is created by the users to access the file while registering themselves on the application. Secure pin will ensure the safety of the document even if the phone is with someone else. The files are secured in such a way that no intruder can access them in any case.
+
+12. Fingerprint authentication secured Android Notes
+Android Project Idea: This is a good android mini project. This app is a simple but smart idea used to secure notes with Fingerprint Authentication. It can also be referred to as Keyless Authentication, unlike old ways where it needed passwords to be entered. Though it doesn’t require any user registration, only the owner of the device can access it. This App can be used to save private notes or personal data.
+
+The data will be stored in the device using SQLite. And for the front end and functioning, you can use the platform of Android Studio. This app would need biometric authentication in the device; else it can’t be used.
+
+Here the users can add new notes, edit the old notes, and delete those that are no more required. As biometric authentication is considered as the highest level of security of any Phone, this app would be a good idea to store personal information
+
+13. Precautionary and Common medicines
+Android Project Idea: This application can be used for the general health care of its users. It will help its users with general medications and awareness. It will have various information about what to do in some critical situations. It will let them tackle some situations where they cannot contact the doctors immediately.
+
+This application will be built in Android Studio with the help of Java and XML. It will have information about basic human survival. It will also have some information about basic medicines such as fever, headaches. This application is handy when you’re on a short trip or a tour.
+
+It will have only one module, which is User. The user would need to register on the application. They need to enter their credentials that are age, allergies, current medications, etc. It’ll be very helpful indeed.
+
+14. Battery Saving System
+Android Project Idea: This project is a full-stack android project idea that allows the system to take usages from Build-in classes and put them all in a list to review. This List consists of the apps that are draining out the battery and also determines the battery percentage. If the battery level is low and the consumption of apps is high, the system will trigger an alarm telling its users to force stop or close the apps.
+
+This system uses Android Studio for its front end development and functioning. This app doesn’t need a backend because this type of application uses the data from the phone itself and projects them to the user.
+This app will help the users to quit or stop apps that consume a lot of battery power and drains it quickly. With the help of this, the user can take the required action for the same.
+
+15. Crime reporter and Missing person finder
+Android Project Idea: This app is proposed to act as an android crime reporter. This app tracks the investigation status of criminal cases with logs and also tracks complaints logged by the user. This system is proposed to help agencies like CBI, CID, and similar bureau’s to speed up their investigation process and track the status of multiple cases simultaneously.
+
+In this system, the locality itself will help the authority with the crime details and proceed with the investigation. They will help the authorities to find out the crime ratio in an area. The system keeps logs of a case, which includes a case summary, no. of people involved, the past criminal record of those involved, and other details. The system allows the admin to control the status of the investigation, images of crime and items found on the scene, etc.
+
+The users here can post the missing person’s details with a photograph. They may also check for the status that is updated by the admin. This app is developed to help investigation teams to work collectively on the cases and coordinate properly. Also, this will help us in speeding up the process by suggesting logical suspects based on the data provided.
+
+16. Musical Instrument Store System
+Android Project Idea: This Music shopping App will allow the users to check for the availability of various Musical Instruments at the store. This app will consist of a list of Musical Instruments displayed model wise and design-wise. Here the user may browse through the available products as per categories. If the user wants a product, he/she can add it to the shopping cart. The items can be viewed and searched based on their names & price in either increasing or decreasing order. This App will have an amazing floating cart. This cart will be available on each page, and will pop up showing the items that are in the cart.
+
+The Front End of the App is developed using Android Studio. SQLite will serve as a backend to store lists of musical instruments and inventory data. The products are added and managed by the Admin, The Admin part will be using Asp.Net with C#.
+
+Users must first register themselves into the system, and then they can proceed to check out the products. The User will have 3 kinds of payment methods that are- Debit, Credit card or Cash on Delivery. The Users can check their order history or the status of their current order in my orders column. Admin will be responsible for changing the status of the users’ orders.
+
+17. Furniture Store Project
+Android Project Idea: An online Furniture Store is the project that will let the user check for the available furniture in the online store. Here a variety of furniture models and layouts are listed together. The user can add the furniture they like into the wishlist or cart. Once they are sure what they want to buy, they can check out to place the order.
+
+The requirement for this app is Android Studio, Android Emulator, Java/ Kotlin. For user interface XML or JSON. For online payment, a suitable gateway or method can be chosen.
+The user would need to register themselves with their emails. There would be an Email check too through verification. Also, there will be categories for the merchandise that the user is looking for to make it easy for them to search.
+
+              ======Android project ideas for computer science students======
+
+
+1. Bus Tracking System
+Android Project Idea: This project aims to help users check and keep track of the bus timings and its information. This application will be helping online as well as offline users. The users can check the bus timing even if they are offline. And the users that can get internet facility can track the buses in real-time using the GPS system.
+
+The requirement for this project is Android Studio, Java/Kotlin for functionality, and XML for the user interface. Permission for location and internet from the device. For local databases, SQLite will be used for our Android Application.
+
+There will be three modules that are admin, users, and the bus. The user will have the facility to register, login, and view the bus details. The admin will manage the issues and accounts. The Driver would manage the bus account, and it will have the bus information and bus type.
+
+2. Online examination
+Android Project Idea: This is the best android project idea for engineering students. These days technology is taking things to the next level. Similarly, using this application the examinations of students can be conducted online. When we consider taking exams offline, there are various difficulties, and it is also tedious and time taking. Therefore we can take examinations online in a hassle freeway.
+
+The requirements for this application are Android Studio, Java, and XML along with the proper system configuration to enable better app development. Also, another thing would be Android Emulator to check the functioning of the application developed.
+
+There are two modules in this project that are:
+
+Candidate Module – The one that will appear for the test. This will be able to create or delete the account. Change the password and give exams.
+Admin Module – The one that will schedule the examination and also the notices regarding the same. They can also view all the students and add or remove any accounts when required.
+3. Online Voting System
+Android Project Idea: This is an e-voting system that will capture a photo of the voters and match it with the faces in the stored database. Once the voter is confirmed, it will generate the One Time Password for registered mobile numbers. After the voter is validated, he/she can do the voting. It is a speedy and easy idea to do the verification of the voters. This will also reduce voter’s time to stand in a long queue for the vote. It can be used in companies and organizations where they need to decide something which has options.
+
+The requirements for this e-voting system are Android Studio, Java, and XML. Another thing would be Android Emulator to check the functioning of the application developed.
+
+There will be two modules for this application that are Admin and the User. The Admin will be required to create voting and options. They can read and modify the data of the voters. The users will have the OTP verification, face validation, and vote.
+
+4. Emergency Application
+Android Project Idea: Our project of Emergency Application aims at helping those who meet with an accident or sudden health issue or some thefts. This application will help the users to call and contact the police station or ambulance in case of an emergency.
+
+The requirement for this emergency application is Android Studio, Java/Kotlin, XML for its development. Permission for a location from the device for the respective application. For local databases, SQLite can be used for our Android Application.
+
+The modules are the users and the admin. The user can register login and call through it. The admin can keep track of all the user accounts and update or modify the details.
+
+5. Food Wastage Management
+Android Project Idea: This is a good project for beginners. This app targets solving a very common problem in our society. We are very well aware of how much food gets wasted per day, and that is the reason for this application. It will help us manage the food that is left over after some function or party. This app will basically relate to the scheduled events at organizations or a group of people.
+
+Software requirements for this project are Android Studio, Java, and xml. Here the users would be required to login and register themselves. Then they would need to give the address of the place where the function would be held or organized. This will make collecting the food better and easier.
+
+There are two modules for this project that the Admin and the User. The user can register themselves and add their locations. The admin here will be able to manage all the accounts and view the user accounts.
+
+6. Women Safety App
+Android Project Idea: This application is aimed at helping women and maintaining their safety as much as possible. This app is for their safety and can be activated with a triple press of the power button in case of an emergency. As soon as it happens, this app will send the location of the device through GPS and also a message having the location URL. The message would be sent to the police station and the emergency contacts. This app will be sending the SMS continuously with a gap of 5 minutes, to keep the location updated. Messages will be stopped when the woman clicks the stop button after reaching a safe place.
+
+The android requirements for this app are Android Studio IDE, xampp, Android SDK, Android Emulator. The knowledge of Java and basic xml for the coding and interfaces. Data can be stored locally using SQLite for android applications.
+
+There are three modules for this project that are:
+1. User – The user can register and login to the application.
+2. Guardian – Guardian can install the application and register themselves in the application.
+3. Admin – The admin can manage the app and view all details. They can view all the locations as well.
+
+7. E-learning application
+Android Project Idea: E-learning application is another one of the best applications of Android Technology. It helps the children and the students and even the professionals to learn while being anywhere they are. It fastens the learning of the users in an easy and interactive manner. This is so because learning becomes even faster when we see and indulge in it.
+
+It will need the Android Studio IDE as a platform for project development. Along with this, Java and xml are required to develop the application and add its functions in it.
+
+There will be three modules for this project that are- Admin, User, and Tutor. They are required to register for the application and then login. They are flexible to learn whenever they get time through the application.
+
+8. E-Vaccination System
+Android Project Idea: This is an interesting android project for computer science students. This system aims at providing and encouraging people about the vaccines that are important for infants and children. As we know, the infants are at higher risk of getting affected with infectious diseases as they have low immunity. Therefore vaccination plays a vital role in their health and healthy immunity. This system will collect the information of the infants and children so that those parents who couldn’t get their children vaccinated can get a chance to do so.
+
+The requirements for this project are Android Studio for application development platform. Java and Xml to add the functionalities and the interface for the users best interaction.
+
+There are three modules for this project that are as follows-
+1. The Admin – The admin can add or remove the users and vaccination team members. They can also generate the vaccination report and the date and schedule of the vaccination.
+2. The Parents – The parents can login and request for the vaccination that is provided on a time to time basis. They can also report the status of the vaccinations done earlier.
+3. E-vaccination team members – The e-vaccination team will be informed about the upcoming requests for vaccination and also, can verify those requests.
+
+9. Online Catering Services
+Android Project Idea: Online Catering Service is mainly meant to help people order catering services online. This is to help the users to place orders online if they’re unable to find the caterers for their functions or parties. This will also let caterers enroll themselves on the application and get more and more orders.
+
+The requirements for this project are Android Studio, Android Emulator for development, and running. Then, Java and XML for application functioning and User interface.
+
+The modules for this application that are-
+1. Admin – Admin will be able to view all the details and add or remove the service items.
+2. User – User can register and login. They can also place their orders for the date and time.
+
+10. Hospital Management System
+Android Project Idea: This project will aid the problems of patients if they are unable to get appointments with the doctors. This application is a platform to provide help to the patients in having a better conversation with the doctors. The patients would need to register themselves on the application.
+
+The requirement for this project is Android Studio IDE for app development Platform. The knowledge of Java or XML for the functioning of application as well as the user interface.
+
+This system will have the following modules:
+1. Admin – The admin will create and manage the ID and password of the users.
+2. Doctor – The Doctor would be able to see complaints of patients and give solutions.
+3. Patient – The patients would need to register themselves and find the doctor they want. They can ask their queries and problems to the doctors.
+
+11. Voice to the Voiceless Application
+Android Project Idea: This application aims at helping those people who have Speaking or Hearing aid. This system will help these people to communicate with others in a better and convenient manner. This application will use AVR microcontroller and the Android platform to capture signs and convert them into voice.
+
+To develop this application you would need to use Android Studio as a platform. For programming and layout, you would need the knowledge of Java and XML.
+
+There will be the users who would need to register themselves and they will be able to use it without any issue. The users with difficulties will find this application very useful to communication.
+
+12. Digital Fare Meter
+Android Project Idea: This is going to be a useful project that can help the users get a fare deal while traveling. We know that taxis are one of the most common modes to travel. Also, we know meter tampering is a common problem too. So, this system will help the users avoid meter tampering.
+
+This project would need Android Studio to develop the application for Android. Another required thing would be Java and XML. Java is required for the application functionality and XML for User Interface of the application.
+
+This project is a microcontroller based system that counts the no. of rotations of the wheel and sends the information to the Android app over Bluetooth.
+
+13. Location-based Alarm System
+Android Project Idea: This system will be generating alarms based on the Alarm System. This project ought to be executable inside a versatile Android handset, and ought to have the capacity to track the area, and should empower the client to sound alert in view of a place, rather than time. Location-based Alarm systems are very helpful for the voyaging client. It is a very cost-effective software.
+
+To develop this application you would require Android Studio to develop the application for Android. Another required thing would Java and XML. Java is required for the application functionality and XML for User Interface of the application.
+
+The user would be able to register themselves in the application. Once the user registers they would need to grant permission to the app so it can access the location of the devices.
+
+14. Child Care Project
+Android Project Idea: This project specially deals with taking care of children properly. This project suggests various ways and means to take care of their children. This application will also have a section where parents would be able to raise their doubts and get advice from the experts. This application will help them take care of their kids aging from a few days to 10 years.
+
+To build this application you would need to make use of Android Studio IDE for the platform to build this project. Then programming can be done in Java, and the user interface can be developed using XML.
+The user would be parents having kids till the age of 10 years. They would need to register themselves on the app. And they can select the range for their kids as- 0 month to 1 year, 1 year to 3 years, 4 years to 7 years and from 8 till 10. This will be the same order in which users will get tips for their children.
+
+15. Dementia patient helping application
+Android Project Idea: Dementia is a severe but prevalent disease that is suffered by millions of people. That is why we have the idea of this application, that will help people with dementia or some other memory loss disorder. It helps them based on their location when they face problems.
+
+Android Studio IDE is required to develop this project with the help of Java and XML. It will need access to GPS to find the location of the user when he/she fails down. This will help in tracking the live location of the person.
+
+The user would need to register to the application and grant access to the internet and location. When the person feels lost or falls down, the accelerometer will detect the fall and GPS will then track the patient’s location.
+
+16. Lost Debit Card management system
+Android Project Idea: This system is proposed to provide security using flash messages. When the debit card is swiped at the terminal, the information is sent to the visa server through the acquirer bank. This server requests the user to enter the password on the phone through the mobile network. It only proceeds if the password is valid.
+It will be built on Android Studio IDE using Java and XML. There will be user registration, server, location tracking, and access time taken. Along with that, it will have OTP generation for security.
+
+This Application will resolve three things that are:
+1. No false transaction could be made
+2. There will be no duplicate transaction
+3. Even if both phone and card are lost, no one would be able to use the card, as the password is only known to the actual owner.
+
+             ======Android project topic list for final year students=======
+
+
+1. Bike Car Service
+Android Project Idea: This project aims at providing ease of servicing for the vehicles that include both car and bike. The vehicle owners, at times, do not get time for servicing their vehicles; thus this application will help them schedule a day and time for the servicing of their vehicles. In this, the user can find the service center and its location.
+
+To develop this application, Android Studio would be required. It will have a login page, appointment details part, and also location pick up and drop locations for the users.
+There will be Servicing details, Emailing system, and details of the service center.
+
+There will be two modules that are the Admin and the user. The Admin can manipulate the service details, view them, manage booking, and also generate reports. The users can register themselves, login, view their profiles, and give feedback as well.
+
+2. Gram panchayat services
+Android Project Idea: This is one of the best android projects for final year students. Gram panchayat services app is built to make the members of panchayat available for the citizens. This will make it easy for the citizens to place the complaints and get the solutions in time. They can also know about the upcoming projects and the programs without delay.
+
+To develop this application you would need to use Android studio with Java for programming and XML for the interface. There would be a chatbox and emergency contact number as well. This application will be as simple as possible so that everyone can make use of it.
+
+There will be two modules: the Admin and the User. The user account would have login and access to the latest schemes and problems and contact details. The admin will be able to see the citizen details and amend, add or update the latest govt schemes for users.
+
+3. Toll Gate Application
+Android Project Idea: Toll gate payment application is a great assistance in reducing the congestion that occurs in the cities these days. The congestion that happens near toll plazas is beyond control, and traffic increases exponentially. Therefore the travelers will be helped with this application, as it has separate wallets to make payments and transactions. This will let them make online payments to make their trips more comfortable and easier.
+
+This application would be made using Android Studio IDE. And Java programming and XML for the functioning and interface of the application.
+
+There will be users who would need to register themselves along with their vehicle numbers. So they can use online wallets to make transactions and payments.
+
+4. eCommerce for women
+Android Project Idea: This is an initiative to help and support women empowerment by giving them opportunities to work. This app is developed to help women, work for themselves, and support their families. This project can be accessed by all the women who work and are willing to work.
+
+This application can be developed using Android Studio with the help of Java Programming and XML for adding the functionalities and the user interface. This will also let the women register themselves with their area of excellence.
+
+The users can register themselves as a business person as well as to hire other women. This will have the users registered with their govt id proof to avoid frauds.
+
+5. Gym Management app
+Android Project Ideas: This system will help the Gym Trainers to keep track of the trainers as well as the gym members. They will all have their accounts along with their daily gym timings. This app will help in managing the data of their members in a better way with a proper record of their In and Out timing.
+
+The requirements for this project are Android Studio, Android Emulator for development, and running. Then, Java and XML for application functioning and User interface.
+
+The modules would be:
+1. Admin – The admin controls the overall details and the number of accounts. The admin can view all the accounts.
+2. Member – They can login and check their own details. The members need to mention them in time and the out time.
+
+6. eBanking app
+Android Project Idea: This project is proposed to help users save their time and use all the features without even visiting banks. This system will be the mediator between the banks and users. The users can maintain their accounts with username and passwords. In case, if a user enters the wrong password for three times consecutively, the account will be recovered only through admin.
+
+The requirements for this project are Android Studio, Android Emulator for development, and running. Then, Java and XML for application functioning and User interface.
+
+The users would be able to log in, recover their passwords, and access their accounts. Also, they can transfer amounts, and they can also check the transfer history. They will also be in a position to check their current balance in the account.
+
+7. Hostel Management
+Android Project Ideas: This system will help the Hostel Managers to keep track of the staff as well as the students. They will all have their accounts along with their daily entries. This app will help in managing the data and students in a better way with a proper record of their In and Out timing.
+
+The requirements for this project are Android Studio, Android Emulator for development, and running. Then, Java and XML for application functioning and User interface.
+
+The modules would be
+1. Admin – The admin controls the overall details and the number of accounts. The admin can view all the accounts.
+2. Students – They can login and check their own details. Students need to mention the in time and the out time.
+3. Staff – Staff would need to enter their details, and the admin will check it.
+
+                =============Advanced android projects=============
+
+1. Online Complaint Management System
+Android Project Idea: This project provides a smart system where the users can place complaints about the cities. It is an app that is not developed for people to file complaints about where they live, but for wherever they are. This app will let people add the location of whichever place they are and add the photo and its description. This will help resolve issues like overflowing drainage, leakages, street light issues, etc.
+
+The requirement to develop this application is Android Studio along with Java and XML. JSON, HTML can also help to design the front end of the application. It will have access to google maps and give an accurate location of the place to file a complaint.
+
+There would be two modules that are the User and the Admin. The users would register themselves on this application. And then they can login in to the application and make use of it for the improvement of our country and the safety of our people. The admin can see all the complaints and the users who placed it. The admin can then take necessary actions.
+
+2. Ayurvedic Solution for all diseases
+Android Project Ideas: Ayurvedic Solution is a recommendation system that offers online consultation with experts. This will help them undergo Ayurveda treatment or understand how this treatment works. It will take some information about the users to undergo this treatment. However, the submission of these details doesn’t force users to undergo ayurvedic treatment.
+
+For this application you would need to use Android Studio as the development platform. Also, for the user interface and functionality, you would need to use XML and Java. For backend and database, you’ll use PHP and SQL using Xampp.
+
+The modules for this application are the Admin and the Users. The admin will be able to Login, post suggestions and treatment details, view the problems and read the complete history. The user would need to register themselves and login. After they log in they will post personal details, health details and complete history along with reports, if any. And they will get solutions for the health issues that they are facing.
+
+3. White Card Project
+Android Project Ideas: This project named White Card aims at designing an application for a well secured dynamic application in sensor reading. This white card can be an all in one card. This app has a personal identification card and a future Indian project that will denote Indians. An Id card can be any document that is useful to verify a person’s identity. This card will include details of all cards like Driving license, Pan Card, Voter Id card, or Ration Card.
+
+This application will use Android Studio IDE along with Java programming for its functioning and XML for its user interface. SQLite will be useful for the back end tool to store data locally.
+The modules are White card creation, Barcode updation, Centralization of data, Mining data from the server, and Getting details. The users can use this application without any issue as it has security.
+
+4. Digital Vehicle
+Android Project Ideas: This is a full-stack android project, good for the final year. This app will store the data of public vehicle details. As we know, the use of vehicles has increased, and people do not follow the rules while on roads. This app will enable police to view, check, and track the driver details. These details include License, Insurance, RC books, etc. It will also let them write the punishments for disobeying the rules.
+
+For this application, you would need to use Android Studio as a platform for its development. In Android Studio, we’ll use Java Programming and XML for its functionality and front end development. The Admin would handle the databases of this app, and only the admin would be able to enter or update it.
+
+The two modules for this application are the Police and the Public. The Police would be able to login, check license, and RC books. They can also update the punishment of the public. The public would be able to login, update their documents, and maintain databases this way.
+
+5. Android based Bluetooth Chat
+Android Project Ideas: This is a very simple but useful project idea, to enable people to chat with each other even if they do not have the internet. This is a bluetooth chatting app that enables users to create profiles and chat with a server with the help of the device’s bluetooth.
+
+For this application, you would need Android Studio as a platform for app development. Java and XML for the front end that is the user interface and also it’s functioning.
+
+The users would be able to chat with each other only when their devices connect to each other using bluetooth. It will also maintain a chat history, for every time you connect and chat, it saves the messages. Thus with this users would be able to chat even when they do not have any Internet facility.
+
+6. Android Call Managing App
+Android Project Idea: This is a simple idea to begin with in order to practice and improve your android app development skills. It will be an application that will be useful to manage the phone calls with an auto-reply if the users are busy. This application will send a message to the caller if the user does not pick or respond to the calls.
+
+This application will use Android Studio with Java and XML. Java and XML will support the front-end of the application. For the backend, we will use SQLite for our project.
+
+For this application, the users would need to register themselves with the app. And then grant permission to access the messages and calls on the device. Once done, it is ready for use.
+
+7. Residential Management
+Android Project Idea: This Residential management application is especially aiming at helping people by solving their problems. This application is basically for a township or a residential area, where so many families reside. This application would be as a residential complaint management system. It will store everything right from the complaints to the visitors and all.
+
+To develop this application you would need to use Android Studio with Java and XML. Java will be to make the application work and XML for the user interface. For the backend, you can use PHP and SQL for database management.
+
+There are two modules for his project that are the Admin and the User. The admin will keep a record of every user along with their requirements, their complaints, registry, and also their feedback. The user will be able to login, register, place complaints, and see their complaint status. Users can also generate alert SOS for the urgent need at their place and write feedback.
+
+8. Disaster management helping app
+Android Project Idea: This project aims to be useful during the natural calamities to get timely and accurate information about it. This will let the rescuers and sufferers exchange information about the latest circumstances. It will also lead the rescue wing to provide support as soon as possible. This system will use mobile services to acquire real-time information of users and environment.
+
+For the development of this project you can use Android Studio with Java and XML. Here, the user can send their queries immediately. The users can post queries even if they are not registered.
+There are three modules for this project that are
+
+The Admin: The admin will have track of whatever the users are posting, and suggest solutions. They can also view the disaster location and details.
+The User: The user would be able to register and login. They will have a profile with their personal details as well. They can post their queries and get solutions for their queries.
+The Public: Public here would be able to post queries and get suggestions and solutions.
+9. Matrimonial Application
+Android Project Idea: Matrimonial Application is a project to overcome the problem faced by many bachelors to find their perfect match for marriage. This will get a lot of tests and screenings for the users to continue to find a match for them. The users would register with their details such as Date of birth, Place of birth, location, and many details for the same.
+
+The platform we need for the development of this project is Android Studio IDE with Java Programming and XML. The user would need to register themselves with the app, with all their details that we need for this purpose.
+
+The users here would register and login. They will be finding suggestions that best matches their requirements. If they like a person, they can send a request. Once the user accepts the request, they’ll be able to contact each other through application.
+
+10. A Random number generator
+Android Project Idea: This application will generate a number based on the range provided by the users. It will take the input for the range that users want. Once they enter it, it generates a number randomly. This number generation on random helps the users deal with the confusion about some things. It helps in making decisions sometimes.
+
+To develop this application you need to use Android Studio. For Android Studio, you can make use of Java/Kotlin and XML or JSON. To generate a random number we need to implement the function randomize.
+The users will be provided with a simple application with a Button “Generate”. Upon clicking the button, the device will show them the generated number.
+
+11. Healthy Diet App
+Android Project Ideas: This project aims at providing a healthy Diet system to people online. We know that an essential part that makes our body is the food that we eat. Food plays a vital role in order to keep us healthy and working. Thus this suggests the diets and intakes while suffering from some illness. Here, the users can ask what to take and when to take, like if they have diarrhea, what they should eat, during nausea, what they should eat.
+
+To develop this application we need to use Android Studio with Java and XML. To store the data locally, you can use SQLite for this android project. Making this application easier and interactive will help more and more people with this.
+
+There will be users and nutritionists. The user would be able to register and ask for the doubts and suggestions that they need to ask. The nutritionist would register along with their proper proof of certification. Once registered they’ll be able to respond to the users with whatever the possible way be.
+
+12. Survey Land registration
+Android Project Idea: This system seeks to facilitate the orderly development of transparent land markets, through registration of real estate rights. This app will help in removing the current impediments to investments in urban areas and also produce property titles in rural areas. This app tries to prevent the selling of agricultural regions and illegal land.
+
+We can develop this application using Android Studio along with the help of Java and XML. In the backend we can use PHP and SQL. There will be users who need to login to check if the land is agricultural or not. Also, they can find if the land is already registered or is illegally underuse.
+
+The users would need to register themselves and login to get the details of the land in order to check about the land and area. This application will help the agricultural as well as illegal land to be safe.
+
+13. Expense tracker system
+Android Project Idea: Expense tracking systems are of great help for those who have a limited budget but are bad at keeping it. It can be best for the youngsters, as they do not have any control over how they spend money. This project will help them keep track of where and how much they have spent. Along with that, it will also calculate the total expenses made yet.
+
+The platform that we need for the development of this project is Android Studio IDE with Java Programming and XML. To store the database locally in the Android device, you can use SQLite. SQLite is specifically made to be useful for Android Application Development.
+The user would need to register themselves with the app, and then they can use it. They can also set the target amount, more than which they do not want to spend; thus this system will help them a lot.
+
+14. Remote Control Robot Car using Android
+Android Project Ideas: This project, Remote Control Robot Car, aims at making a straightforward robot with strong computational platforms. This will help the users to learn and improve their programming skills with this project. We will control this robot car wirelessly using the Android application,
+
+The development of this application would require these things- AT89S52, HC Serial Bluetooth, L293D, UARTS, and DC Motor for this. For the development of this application you can use Android Studio with the help of Java and XML for its functioning and user interface.
+
+In this application, the users will be able to control the robot using the remote and utilize its functionalities. It will enable the movement of the robot as per the buttons pressed by the users. The implementation of this would be for a developer of Advanced level.
+
+15. File sharing Android Application
+Android Project Ideas: It is an essential application, as it is useful for sharing the files in a secure way. Therefore this is a hybrid solution for file storage cloud. The users can upload their files on the cloud, and the other users would be able to download it. But, it is not as simple as it sounds. As, file uploading will take part with the help of key, and using encryption method. This system will divide the file into two parts. Here, the first part is encrypted using the AES algorithm and the other using the DES algorithm.
+
+The platform that we need for the development of this project is Android Studio IDE with Java Programming and XML. To store the database locally in the Android device, you can use SQLite. SQLite is specifically made for Android Application Development.
+
+The users would be able to register themselves and create their accounts. So, user 1 will upload with a key, and user 2 will login with his credentials to find the files shared with him. After that, for the user 2 to access, the system will automatically check if the SMS is there with the right encryption. If it finds that, the encrypted file will be decrypted for the user 2 to use it.
+
+16. Public News App
+Android Project Ideas: A public news app is an informative system that helps the users know the news, article, and many other important things going in and around their places. This project will help people stay updated with the latest happening things. In this app, the user would require to register themselves to the application.
+
+The development of this application will make use of Android Studio IDE. For the development of this application, its front end, and functionalities we will use XML and Java. For the backend SQL server would be useful for this project.
+
+There will be two modules for this that are: the user and the admin. The user here can view the news, and even add the news with images. The admin on, the other hand, would be keeping track of all the uploads by the user to make sure there is nothing wrong or abusive.
+
+17. General Knowledge Chatbot
+Android Project Idea: This project helps its users to learn and know more and more about general knowledge. This system works on the algorithm that analyzes the queries and understands the user’s message. This system will provide answers to users based on their queries. Once the users enter their question, it will analyze the keywords and respond accordingly.
+
+The platform that we need for the development of this project is Android Studio IDE with Java Programming and XML. To store the database locally in the Android device, you can use SQLite. SQLite is specifically made for Android Application Development for Android devices.
+
+The module for this project is the User Module. The users need to register themselves and login to this app. The user can ask questions from anywhere, be it sports, history, entertainment, politics, or any other. They can also respond to the results if they like them and report if the result shown is wrong.
+
+             ========Android project idea to become android professional========
+
+1. Budget manager system
+Android Project Idea: This project named budget manager system helps its users to manage their personal budgets. This system facilitates the users to write and add their budgets, to keep a record of day to day transactions. They will also be able view the records along with the time and date.
+
+The platform that we need for the development of this project is Android Studio IDE with Java Programming and XML. To store the databases locally in the Android device, you can use SQLite. SQLite is useful in Android Application Development.
+
+The User will be the only module for this application. Here, the users would need to register themselves, in order to secure the data even if it vanishes lcoally. Thus, it will help the users a lot in order to support and manage financial well being.
+
+2. Automated light dimming with Android application
+Android Project Ideas: This is an automated light brightness controlling application. It will help the users to control the brightness of the light through application. It makes it convenient for the users to control the brightness of the light through the phone.
+
+The hardware requirement of this system are: LCD, Resistors, transistors, diodes, LED, Bulb Holder, Atmega328p, Opto-Isolator, LED, Transistors, Push Buttons, IC, IC sockets, switch, diodes, cables and connectors, capacitors, bluetooth module, PCB and transformers. The software requirements for this is android application that will use the Android Studio
+
+This project uses Atmega328p microcontroller that controls the AC load using Bluetooth. Here we control the intensity of AC loads using the android app. First, the user will select the load using the android app, and then vary its intensity using buttons. The atmega328p microcontroller is in connection with a Bluetooth module that connects to the android app. The user will send commands through the android app in order to control it.
+
+3. Currency detector for visually impaired
+Android Project Idea: This application is especially useful for those people who have visual impairments. Visually impaired are those who have difficulty in vision or complete vision loss, which causes them trouble in recognizing the paper currencies. This application is a way out for them, as it will help to find out the value of currency.
+
+For development of this application, you can make use of Android Studio IDE with the help of Java and XML. We will add its front end and functionalities with the help of XML and Java programming.
+
+This project will use speech to text conversion and convert the command of blind patients. Speech Recognition will allow users to give commands to the system through speech. This android application will also use text to speech features to read out the value of the note. To detect the currency, this application will use Azure custom vision API through Machine learning classification technique and detect currency based on images captured in the phone.
+
+4. Income tax calculator application
+Android Project Idea: This application aims at helping its users in calculating the correct payable taxes, and EMI with proper details. In this, the user would need to enter the details and rate of interest, principle amount, etc to find the result. This is a useful application when it comes to calculating the EMI or taxes even for casual checks.
+
+The platform that we need for the development of this project is Android Studio IDE with Java Programming and XML. To store the databases locally in the Android device, you can use SQLite. SQLite is very useful for Android Application Development.
+
+The user module would be there, where the users would need to register themselves on the application to make the utmost use of this system. This application will also store the record of calculations that the user would be able to refer later on.
+
+5. Android Bookaholics Circle
+Android Project Idea: This application project aims at providing a platform where book enthusiasts can find it easy to exchange, buy or sell pre-owned books. This project will also let the people discuss things and exchange thoughts about popular books or series and also publish a fan-written story. The users would be able to find the books they like, with genuine reviews and also, it will save time and money.
+
+To develop this application you would need to make use of Android Studio IDE with Java and XML. It will have a discussion platform and also a chat window. The discussion platform will let people write their reviews and experience stories. The chatbox will let them exchange their thoughts and people would be able to see those only if they join.
+
+In this project, the module is the user who would need to register and login to the application to be able to use it. The user would need to maintain their profile with the list of books they own and their genre. Along with that, they would need to mention their area of interest so as to get suggestions of the books.
+
+6. Android Antenna Positioning System
+Android Project Idea: This is a very innovative system that helps in positioning the antenna with the help of an Android Application. This system helps the antenna to point straight towards the sending signal device to get a better signal. For the implementation of this system, we need to use 8051 family microcontroller and LCD screen. The LCD Screen here displays the status of the angle of the antenna.
+
+The hardware requirements of this system are- Stepper motor, LCD display, Resistors, transistors, diodes, LED, Transistors, Push Buttons, IC, switch, cables and connectors, capacitors, bluetooth module, crystal oscillator, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE.
+
+The user will connect the system with the phone to make the system work. For this connection we will take help of bluetooth.
+
+7. Voice-based notice board
+Android Project Idea: Voice-based notice board is a useful project when we need notification about something urgently. This is mostly useful for areas like railway stations or bus stations, or such busy places. In situations like this, it is difficult to notify everyone at once, and going personally to everyone and informing is not possible. Therefore we have this system that will announce the notice with the need to type it manually.
+
+The hardware requirements of this system are- LCD display, Resistors, transistors, diodes, LED, Transistors, Push Buttons, IC, switch, cables and connectors, capacitors, bluetooth module, crystal oscillator, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE, and Android application. To make the Android application you can use Android Studio with Java and XML.
+
+8. Android Control Remote AC power control
+Android Project Idea: This project helps to control the AC power applied to a load by the firing angle of a thyristor. Here we need the Android interface to send commands through any Android device. Here the microcontroller is programmed to delay the triggering control using an opto isolator interface to a pair of SCR.
+
+The hardware requirement of this system are- LCD display, Resistors, transistors, diodes, LED, Push Button, Transistors, IC, IC sockets, switch, diodes, Lamps, cables and connectors, capacitors, bluetooth module, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE.
+
+In this project, we make use of an 8051 microcontroller for its operation. We send the commands through android devices and receive them by a Bluetooth receiver mounted on the circuit. The receiver processes the commands and sends them to the microcontroller for further processing. The lamp is then used to be demonstrated as an induction motor. The intensity of this lamp varies as per the commands to simulate as induction motor speed.
+
+9. Android controlled Wildlife observer robot
+Android Project Ideas: Wildlife observers who tend to get close footage of wild animals often need to get into their habitats. And getting into their habitats is not a safe thing to do at all; thus we have introduced this idea of having wildlife observing robot with night vision as its specialty. We’ll control this robot using remote wirelessly through their Android phones. The hardware requirements of this system are: DC motor, robotic chassis, motor driver IC, LCD display, Resistors, transistors, diodes, LED, Push Button, Transistors, IC, IC sockets, switch, diodes, cables and connectors, capacitors, bluetooth module, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE.
+
+This system uses an 8051 microcontroller unit that processes the commands sent by users. The system receives these commands through the Bluetooth modem. Then the microcontroller processes this data to pass it on signals to driver motors. The driver motors here, in turn operates the motors by providing desired signal outputs to drive the vehicle. Thus this wildlife observation robot helps the observers to observe the wildlife in a safe and sound manner.
+
+10. Android Vehicle tracking system
+Android Project Ideas: This vehicle tracking system by Android keeps track of the vehicle on an online map. This system will allow its users to track and check their vehicle fuel entries, servicing data, and maintenance status. The owner can keep track of more than one vehicle as well. The tracking system for vehicles will use the drivers GPS enabled mobile to track them on google maps.
+
+We will develop this application using Android Studio IDE as a development platform. A tracker will be there in the vehicles. For the functioning and user interface you can make use of Java, XML, HTML, JSON, CSS.
+
+The best thing about it would be the details would be with the Admin thus, no one can delete or alter the data. It will store data with all the details and all the entries.
+
+11. Smart Floor Cleaner Robot Using Android
+Android Project Ideas: The Smart floor cleaner is an automatic floor cleaner that will work wirelessly using the app. This can be useful even when the user is sitting at a place. This system also consists of a transmitter app that runs on Android devices. Based on the commands through the transmitter, the robot will make movements.
+
+The hardware requirements of this system are: DC motor, crystal oscillator, robotic chassis, motor driver IC, LCD display, Resistors, transistors, diodes, Water tank, water sprayer, two cleaners, LED, Push Button, Transistors, IC, IC sockets, switch, diodes, cables and connectors, capacitors, bluetooth module, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE.
+
+This robot consists of two cleaning pads with a water sprayer for efficient cleaning. Then there are two motorized rotating cleaning scrubs for cleaning the floor. On receiving the commands for movement from the android device through Bluetooth receiver, it will work. Upon receiving the commands, the microcontroller decodes them and thus operates the motors to work. We will control this feature of spraying and cleaning using the android app user. This will make floor cleaning very comfortable, fast, and effortless for its users.
+
+12. Android Controlled Night Vision Camera
+Android Project Ideas: The project based on the Night vision camera is developed to be managed even through android phones. This system will be useful in wars, terrorism, and sensitive areas like banks. It can also be useful in jungles and other environments where humans cannot possibly enter during the night time. This application will let the user keep an eye on the area wherever the camera is for like 24*7. Use of Night Vision has brought a totally new change as it lets the users access the view even at night.
+
+The hardware requirements of this system are: Robotic chassis, crystal oscillator, Resistors, transistors, diodes, LED, Push Button, Transistors, IC, IC sockets, switch, diodes, cables and connectors, capacitors, bluetooth module, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE.
+
+The system consists of receivers in connection with an 8051 microcontroller that receives the command through the receiver. The 8051 microcontroller then operates the movement motor through a driver IC. This robotic camera can be easily operated from any android device & provides an excellent user interface. This robotic camera allows efficient spying even at night using infrared lighting.
+
+13. Android Powered Juicer
+Android Project Ideas: This is a very impressive project when it comes to staying fit or during the summers. This system can be very useful for a vending juicer to make fruit juice. Normally the machines that we have been manually operated. For this, the users need to be present till it completes. Therefore, we have brought this idea of making an Android operated juicer, that can be operated with the help application itself.
+
+To develop this system we would need these hardware things: IR transmission receiver, Pump Motor, Crystal Oscillator, Capacitor, Cables and connectors, Breadboards and PCB, Adapter, Sockets, Keil Compiler, switch, Adapter, LED, resistors, LCD Display, Atmega Microcontroller, coin module, transistors, diodes, push buttons, IC, resistors, and transistors. And in terms of software, we require MC programming language.
+
+This system uses the Atmega family microcontroller that gives the signal to the respective pump to start or stop the flow of juice when it gets a signal from the phone. Here, the android phone connects to the Machine using the Bluetooth module. Another part is the IR sensor placed at the Juice outlet used to detect the presence or absence of glass. If the glass is not present, it notifies the user through a display and a buzzer. It also detects if the glass is filled and if it is full the machine will stop.
+
+14. Android Controlled Induction Motor
+Android Project Ideas: This project will control the speed of the induction motor by an Android device remotely. This project would need a bluetooth connection. Here the commands would be sent through a transmitter that is received by the bluetooth receiver. The bluetooth device connects with the microcontroller that directly connects to the motor.
+
+To develop this system we would need these hardware things: IR transmission receiver, Crystal Oscillator, Capacitor, Cables and connectors, Breadboards and PCB, Adapter, Sockets, Keil Compiler, switch, Adapter, LED, resistors, LCD Display, 8051 Microcontroller, transistors, diodes, push buttons, IC, resistors, and transistors. And in terms of software, we require Android Application and MC programming language C. For Application development make use of Android Studio as a platform.
+
+Every time a command is sent, it is executed by the microcontroller that initiates delayed firing pulses to the thyristors by optical isolation. Then, the loads are set in series with the thyristor to control the power according to the command. Lamp for demonstration purpose, as the varying intensity of the lamp will tell the varying speed of the motor. And in the seven-segment display, the firing angle is displayed.
+
+15. Android railway gate controller
+Android Project Ideas: This project aims at functioning of level crossing gates that are its opening and closing system through an android application. Initially, it was done manually by lever pulling, which led to many accidents. This system will allow them to control this in an automated way using the Android application. It will work by providing the opening and closing functionality of the railway gate.
+
+The platform that we need for the development of this project is Android Studio IDE with Java Programming and XML.This system will work through an android application. A Bluetooth device will be there on the railway gate and used to receive the commands.
+
+These commands are then sent to an 8051 microcontroller, which then performs the action. On receiving the OPEN command, it will drive the motors to open the gate and close the gate on receiving the CLOSE command. It drives the motor through a driver IC and then it achieves this functionality.
+
+16. Android Controlled Fire fighter robot
+Android Project Ideas: This system aims at developing an android controlled fire fighter robot to be useful in emergencies. It can be useful to extinguish the fire using wireless remote control. This system will consist of a water tank with a pump that can throw water when needed. This system uses a transmitter to send over-controlling commands to the vehicle.
+
+The hardware requirement of this system are- DC motor, crystal oscillator, robotic chassis, motor driver IC, LCD display, Resistors, transistors, diodes, Water tank, water sprayer, two cleaners, LED, Push Button, Transistors, IC, IC sockets, switch, diodes, cables and connectors, capacitors, bluetooth module, PCB and transformers. The software requirements for this are MC programming language, Embedded C, and Keil µvision IDE.
+
+Here the bluetooth receiver is in connection with an 8051 microcontroller. The microcontroller receives input commands and operates the motors through a driver IC for the vehicle movements. It allows the use of Bluetooth technology for communication enabling the vehicle to operate in a good range from the device. The system can also be later enhanced through the use of a wireless camera to be useful for monitoring purposes.
+
+17. Android Controlled Automobile
+Android Project Ideas: This project allows the user to control a battery-powered automobile wirelessly with the help of application. This system uses a bluetooth modem as a medium to transmit signals between Android phones and the automobile. Through android we’ll provide a graphical user interface to the user. The system sends these commands in the form of string variables through an application using the bluetooth connection.
+
+The hardware requirements of this system are: Robotic Chassis, DC Motor, Resistors, Capacitors, Transistors, Cables and Connectors, Diodes, PCB and Breadboards LED, Transformer/Adapter, Push Buttons, Switch, IC, IC Sockets. And software that we need are: Android Applications that will be using Android Studio IDE with Java and XML, Keil µVision IDE and MC Programming Language: C.
+
+The microcontroller will process the data sent through bluetooth modem and will check the user commands. Upon recognizing the direction commands sent by the user the microcontroller will send signals to the appropriate driver Integrated Chips. The IC’s operate on motors and make the automobile move.
+
+18. Android Custom keyboard
+Android Project Ideas: This is a custom keyboard application for users who want to have customized keyboards. Here using this application the users would be able to customize their keyboard according to their comfort, color, and font that they like. Therefore the users can use it more efficiently and conveniently if they use their customized keyboard.
+
+Using Android Studio IDE we can develop this app, and use Java programming and XML for its interface and function. This application will be faster, responsive and even more capable so the users would choose it. This will provide users with their choices of fonts, themes, and what not. This can be useful in any Android Device.
+
+The users will feel free to use this app as it would be as per their choices. They will be able to change the color or the keys, borders, fonts of the alphabets and numbers, and almost everything. Once the user customizes their application they will be able to save it as their default keyboard.
+
+                    ==========Android Project Topic List=========
+
+Home automation system
+Simple Calculator
+eRestaurant Online Shopping For Food
+Reminder App
+Android controlled robot
+Quiz Application
+Net classified Based Mobile App
+Simple Tic-Tac-Toe
+Interfacing a Laser LED with Arduino
+Stopwatch
+Child Safety App
+To Do App
+Remote AC power control
+Roman to decimal converter
+emedicine Prescription – Recommendation Android App
+Virtual Dice Roller
+Voice controlled robotic vehicle
+Scientific Calculator App
+EGG Production Management System
+SMS App
+Android password based remote door opener system
+Smart Alarm Setter
+Android Voice Based Train Time-Table
+Car Pooling Project
+Fake Call Timer
+Automatic brightness control of the device
+Online Matrimonial Android App
+Digital Panchayat Services through Android Application
+Tourist Guide Application
+Building Construction Planner
+Flip Image App
+Where Are You – Location finder
+Lost and Found System
+Catering Booking Android App
+Recipe App
+Organ Donation Android Application
+Online Food Delivery Project
+Survey Land Registration System App
+Movers and Packers App with tracking
+Android app for Online Examination and Results System
+Smart Car Parking App
+Smart Home Automation System with Light Dimmer
+House Rental Management App
+Emergency Distress Signal (SOS)
+E-bridging between the teachers and students
+Graphical Password Authentication for Android App
+Smart Online Examination and Result App
+Location Based Garbage Management System
+Blood Bank App
+Custom Keyboard Android App
+Music Application
+Food wastage reduction android project
+Online Municipality Complaint Registration and Management System
+Face Authentication App using Microsoft’s Cognitive Service
+Organ Donation Management App
+Android Bookaholics Circle
+Bicycle Rental App
+Real-time OnRoad Vehicle Breakdown Help Assistance
+Smart Home Lights Automation
+Advanced CRM Android Application
+Vehicle Number Plate Recognition App
+Hospital Management System
+Android Auction App
+Daily Route Planner
+Health Monitoring System
+evoting Android App Using OTP and Photo Matching Voting system
+Calorie Calculator App
+Android College Attendance System
+Nearby help assistant app
+eCrime Identification Using Face Matching android project
+Ticketing System using RFID
+Android OCR Snap & Share Application
+Android Query Generator App
+Finding Lost Debit Card Security Based Android App
+Patient Tracking Application
+Cab Booking Android Application
+Easy Document Sharing App
+Farmers Agriculture using E-Digital Marketing Shop
+Android Voting project
+Android Food order and delivery app
+Voice based Train Time-Table Project
+Android App for Student Attendance System
+Online restaurants seat booking system
+Currency Detector App for Visually Impaired
+Grocery Shopping Android App
+Android Women Safety App
+Android Operation Schedule Management System
+Friendly Map Android Application for Disabled People
+Android eCommerce for Women Handicraft Shopping
+e-Vaccination management System Android app
+Trip Planner Android Application
+Android App for online Super Market
+Android Paper Free Document Sharing App Project
+Gas agency system android app
+Android Smart Sticky Notes Application Project
+Online Movie Booking based Android App
+Library Management System with SMS
+eAyurvedic Doctor Mobile Application
+
